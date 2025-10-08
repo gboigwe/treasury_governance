@@ -1,6 +1,6 @@
 # Treasury Governance Smart Contract
 
-A comprehensive treasury governance smart contract built with ink! (Rust-based smart contract framework) for Polkadot/Substrate. This contract enables decentralized decision-making for treasury fund allocation through proposal creation, voting, and execution mechanisms.
+A treasury governance smart contract built with ink! (Rust-based smart contract framework) for Polkadot/Substrate. This contract enables decentralized decision-making for treasury fund allocation through proposal creation, voting, and execution mechanisms.
 
 ## 🎯 Features
 
